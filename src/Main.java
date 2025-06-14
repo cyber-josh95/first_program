@@ -5,8 +5,8 @@ public class Main {
         TintinsRecept[0][1] = "Lollipop";
         TintinsRecept[0][2] = "Lollipop";
 
-        TintinsRecept[1][0] = "Lollipop";
-        TintinsRecept[1][1] = "Lollipop";
+        TintinsRecept[1][0] = "banana";
+        TintinsRecept[1][1] = "apple";
         
         for (int i = 0; i < TintinsRecept.length; i++) {
             for (int j = 0; j < TintinsRecept[i].length; j++) {
