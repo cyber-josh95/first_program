@@ -1,5 +1,6 @@
 public class Main {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+    public static void main(String[] args) {
+        String[][] TintinsRecept = new String[2][3];
+        TintinsRecept[0][0] = "Lollipop"; 
     }
 }
